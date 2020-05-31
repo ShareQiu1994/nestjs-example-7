@@ -1,0 +1,23 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Photo {
+  id: ID!
+  name: String
+  description: String
+  filename: String
+  views: Float
+  isPublished: Boolean
+}
+
+type Query {
+  photoFindAll: [Photo!]!
+  photoFindId(id: Float!): Photo!
+}
+
+type Mutation {
+  photoAdd(name: String = "string", description: String = "string", filename: String = "string", views: Float = 100, isPublished: Boolean = true): Photo!
+  photoUpdate(name: String = "string", description: String = "string", filename: String = "string", views: Float = 100, isPublished: Boolean = true, id: Float!): Photo!
+  photoDelete(id: Float!): Photo!
+}

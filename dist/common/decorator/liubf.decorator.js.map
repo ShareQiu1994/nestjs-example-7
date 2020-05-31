@@ -1,0 +1,1 @@
+{"version":3,"file":"liubf.decorator.js","sourceRoot":"","sources":["../../../src/common/decorator/liubf.decorator.ts"],"names":[],"mappings":";;;AAKA,2CAAsD;AAEzC,QAAA,KAAK,GAAG,6BAAoB,CAAC,CAAC,IAAY,EAAE,OAAO,EAAE,EAAE;IAClE,OAAO;QACL,GAAG,EAAE,IAAI;QACT,SAAS,EAAE,IAAI,IAAI,EAAE,CAAC,WAAW,EAAE;QACnC,IAAI,EAAE,OAAO,CAAC,GAAG;KAClB,CAAC;AACJ,CAAC,CAAC,CAAC"}

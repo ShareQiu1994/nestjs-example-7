@@ -1,0 +1,1 @@
+{"version":3,"file":"auth-token-dto.js","sourceRoot":"","sources":["../../../src/auth/DTO/auth-token-dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAAuD;AAEvD;IAAA,MAAa,YAAY;KAQxB;IADC;QANC,qBAAW,EAAE;QACb,4BAAU,CAAC,EAAE,OAAO,EAAE,iBAAiB,EAAE,CAAC;QAC1C,0BAAQ,CAAC;YAER,OAAO,EAAE,iBAAiB;SAC3B,CAAC;;kDACe;IACnB,mBAAC;KAAA;AARY,oCAAY"}
